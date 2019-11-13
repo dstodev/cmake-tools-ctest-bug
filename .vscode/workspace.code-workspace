@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..",
+			"name": "Project: CTest Bug"
+		}
+	],
+	"settings": {
+		"cmake.configureOnOpen": true,
+		"cmake.buildDirectory": "${workspaceRoot}/build",
+		"cmake.sourceDirectory": "${workspaceRoot}",
+		"cmake.debugConfig": {
+			"cwd": "${workspaceRoot}/build"
+		},
+		"C_Cpp.default.configurationProvider": "microsoft.cmake-tools",
+		"C_Cpp.configurationWarnings": "Disabled"
+	}
+}
